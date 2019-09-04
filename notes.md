@@ -1,0 +1,8 @@
+- create repository
+- clone repo
+- cd into folder
+- npm init -y
+- npx gitignore node
+- git add .
+- git commit -m 'message'
+-git push -u origin master
